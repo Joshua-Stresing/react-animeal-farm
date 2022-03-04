@@ -32,11 +32,12 @@ There is a list of animals provided for you in `data.js`, as well as an empty `<
 
 | Task                                                                        | Points |
 | --------------------------------------------------------------------------- | ------ |
+| Main branch deployed to Netlify                                             |  0.5   |
+| Open PR from `dev` branch with Netlify deploy preview                       |  0.5   |
 | Uses a `.map` to render `<Animal />` component for each animal in `data.js` | 4      |
 | Properly destructures and uses props in `<Animal />`                        | 2      |
 | Dynamically sets the `style` attribute in JSX to position the animals       | 2      |
 | Utilizes existing classes to properly display animals                       | 1      |
-| Deployed on Netlify                                                         | 1      |
 
 ### Image Attribution
 
