@@ -25,7 +25,6 @@ There is a list of animals provided for you in `data.js`, as well as an empty `<
 
 - `<Main />` should import `background.png` and set it as a background image on the `<main>` element
 - `<Main />` component should use a `.map` to loop through and render an `<Animal />` component for each animal listed in `data.js`
-- Props should be destructured properly in `<Animal />`
 - Animals should be positioned dynamically using the `style` attribute in JSX and props
 - <Animal /> should utlize the existing classes in `Animal.css`
 - App should be deployed on Netlify
@@ -37,7 +36,7 @@ There is a list of animals provided for you in `data.js`, as well as an empty `<
 | Main branch deployed to Netlify                                             |  0.5   |
 | Open PR from `dev` branch with Netlify deploy preview                       |  0.5   |
 | Uses a `.map` to render `<Animal />` component for each animal in `data.js` | 4      |
-| Properly destructures and uses props in `<Animal />`                        | 2      |
+| Properly uses props in `<Animal />`                        | 2      |
 | Dynamically sets the `style` attribute in JSX to position the animals       | 2      |
 | Utilizes existing classes to properly display animals                       | 1      |
 
