@@ -41,4 +41,4 @@ export const animals = [
     top: '225px',
     left: '20%',
   },
-]
+];
