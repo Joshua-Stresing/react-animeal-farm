@@ -1,5 +1,7 @@
 # React Animal Farm
+
 **Use [this app](https://github.com/alchemycodelab/react-animal-farm) as a template for your deliverable!**
+
 ### Learning Objectives
 
 - Describe and utilize the classic React gotchas:
