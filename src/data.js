@@ -12,6 +12,7 @@ export const animals = [
     says: 'Heee haw!',
     top: '315px',
     left: '38%',
+    
   },
   {
     name: 'Golly the Goose',
